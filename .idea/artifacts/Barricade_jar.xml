@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Barricade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Barricade_jar</output-path>
+    <root id="archive" name="Barricade.jar">
+      <element id="module-output" name="Barricade" />
+    </root>
+  </artifact>
+</component>
